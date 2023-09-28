@@ -1,0 +1,19 @@
+{
+  "name": "saucedemo-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  },
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.27.8"
+  }
+}

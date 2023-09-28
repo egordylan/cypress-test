@@ -1,0 +1,14 @@
+[
+    {
+        "login":"standard_user",
+        "password": "secret_sauce"
+    },
+    {
+        "login":"problem_user",
+        "password": "secret_sauce"
+    },
+    {
+        "login":"performance_glitch_user",
+        "password": "secret_sauce"
+    }
+]
